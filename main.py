@@ -22,10 +22,14 @@ def main():
 def logo():
   print """%s
   ___                                   
- / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor  %sRyzz_ D1P5EY%s
- \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< %sGithub %sgithub.com/Ryzz03%s
- |___/ .__/\__,_|_|_|_|_|_|_\___|_| /__/ %sTeam %sPARASIT CYBER ALLIANCE%s
-     |_|                                 %sTools spam otp dengan 20 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
+ / __|_ __  __ _ _ __  _ __  ___ _ _ ___ 
+ \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< 
+ |___/ .__/\__,_|_|_|_|_|_|_\___|_| (__/
+     |_|                                 
+  %sAuthor %sRyzz_ D1P5EY%s
+  %sGithub %sgithub.com/Ryzz03%s
+  %sTeam   %sPARASIT CYBER ALLIANCE%s
+  %sTools spam otp dengan 20 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
 def input():
   global nom
@@ -99,7 +103,7 @@ def klikwa():
 # dat=json.dumps({"number":"+62"+nom,"auth_key":"B33FR33OTP"})
 #tes = requests.post("https://api.klikwa.net/v1/number/sendotp",headers={'user-agent':'Mozilla/5.0 (Linux; Android 9; vivo 1902) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36'},data=dat)
 # if json.loads(tes.text)["message"] == 'OTP Sent':
-  print "     %s[%s%s%s] [%s Sent %s] %sSuccess, spam %s from %s%s %ssended %s>> %sMau yang unlimited? %shttps://github.com/AbilSeno/WaUnlimitedV3"%(pu,ku,"10",pu,hi,pu,pu,"wa",ku,"klikwa",hi,qu,pu,ku)
+  print "     %s[%s%s%s] [%s Sent %s] %sSuccess, spam %s from %s%s %ssended %s>> %sMau yang unlimited? %scoring sendiri BANGSAD!!"%(pu,ku,"10",pu,hi,pu,pu,"wa",ku,"klikwa",hi,qu,pu,ku)
 # else:
 #  print "     %s[%s%s%s] [%s Failed %s] %sFailed, spam %s from %s%s %snot sended %s>> %sMau yang unlimited? %shttps://github.com/AbilSeno/WaUnlimitedV3"%(pu,ku,"10",pu,me,pu,pu,"wa",ku,"klikwa",me,qu,pu,ku)
 def bakmikeraton():
